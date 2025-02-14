@@ -25,7 +25,7 @@ Run the Jupyter Notebook in Google Colab or a local environment to train the DQN
 
 ## Results
 
-After training, the model is expected to achieve an average reward close to the maximum score of 500, demonstrating its ability to successfully balance the pole.
+After training, the model is expected to achieve an average reward close to the maximum score of 200, demonstrating its ability to successfully balance the pole.
 
 ## References
 
